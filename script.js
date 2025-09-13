@@ -102,7 +102,7 @@ const MODEL = {
     {
       "address": "C11",
       "label": "Approx. quantity in meter of LHS Cable from conveyor to deluge valve control panel",
-      "formula": "=18",
+      "default": 18.0,
       "row": 11
     },
     {
